@@ -1,0 +1,2 @@
+Release\client localhost
+pause
